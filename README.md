@@ -1,16 +1,17 @@
-## Hi there 👋
+### hey, I'm riley 👋
 
-<!--
-**rileyfx506/rileyfx506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems programmer based in Paris. Mostly writing Rust, breaking C memory allocators, and exploring WebAssembly beyond the browser.
 
-Here are some ideas to get you started:
+#### what I'm up to
+- Building a small, zero-dependency Wasm runtime in Rust
+- Tinkering with Linux kernel modules and eBPF tracing
+- Maintaining a few tiny CLI utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### toolbox
+- **Core:** Rust, C, Linux, Git
+- **Curiosities:** WebAssembly (WASI), eBPF, Zig
+- **Debugging:** gdb, lldb, perf, valgrind
+
+#### contact
+- Email: riley.fx@proton.me
+- Matrix: `@rileyfx:matrix.org`
